@@ -1,4 +1,4 @@
-# Machine Learning Foundations
+# Applied Machine Learning
 
 A progression of implementation notebooks and mathematical work covering supervised learning, model evaluation, natural-language classification, and unsupervised representation learning.
 
@@ -11,7 +11,9 @@ A progression of implementation notebooks and mathematical work covering supervi
 - Applying perceptrons, kernel methods, and support vector machines to classification problems
 - Building text classifiers with TF-IDF, linear and RBF kernels, and multinomial Naive Bayes
 - Evaluating models with hyperparameter searches, accuracy curves, support-vector counts, and error analysis
+- Comparing bagging, random forests, and boosting through their bias, variance, robustness, and ensemble-size tradeoffs
 - Exploring GloVe word embeddings with K-means clustering, PCA, and t-SNE
+- Understanding hierarchical clustering, Gaussian mixture models, expectation-maximization, LDA, ISOMAP, and neural-network training principles
 - Working through the linear algebra, probability, maximum-likelihood, maximum-a-posteriori, and Bayesian foundations behind the implementations
 
 ## Repository map
